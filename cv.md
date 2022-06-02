@@ -112,4 +112,4 @@ Additional Info
     
 *   Fundamental Data Analysis and Visualization tools in Python
     
-*   Top student at 4-hours course "Data Analysis and Vizualization with Microsoft Power BI"
+*   Top student at 4-hours course "Data Analysis and Vizualization with Microsoft Power BI" 
